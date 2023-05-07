@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-##### Notes:
+##### Notes 📚:
 
 | Reference | Description |
 | --- | --- |
-| cs | Course |
-| tips | Tips and tutorial |
-| proj | Personal project |
-| client | Client's project |
+| `cs` | Course |
+| `tips` | Tips and tutorial |
+| `proj` | Personal project |
+| `client` | Client's project |
