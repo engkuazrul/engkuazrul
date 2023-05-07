@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Notes:
+
+| Reference | Description |
+| --- | --- |
+| cs | Course |
+| tips | Tips and tutorial |
+| proj | Personal project |
+| client | Client's project |
