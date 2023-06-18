@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 | Reference | Description |
 | --- | --- |
-| `cs` | Course |
+| `cs` | Course and training |
 | `tips` | Tips and tutorial |
 | `proj` | Personal project |
 | `client` | Client's project |
