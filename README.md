@@ -23,4 +23,5 @@ Here are some ideas to get you started:
 | `as` | Assessment and interview |
 | `tips` | Tips and tutorial |
 | `proj` | Personal project |
+| `boiler` | Boilerplate |
 | `client` | Client's project |
