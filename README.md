@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 | Reference | Description |
 | --- | --- |
 | `cs` | Course and training |
+| `as` | Assessment and interview |
 | `tips` | Tips and tutorial |
 | `proj` | Personal project |
 | `client` | Client's project |
