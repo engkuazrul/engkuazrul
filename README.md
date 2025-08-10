@@ -24,4 +24,5 @@ Here are some ideas to get you started:
 | `boiler` | Boilerplate |
 | `cli` | Client's project |
 | `tpl` | Template |
+| `ref` | Reference |
 
