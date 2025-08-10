@@ -25,4 +25,5 @@ Here are some ideas to get you started:
 | `cli` | Client's project |
 | `tpl` | Template |
 | `ref` | Reference |
+| `cs` | Course |
 
