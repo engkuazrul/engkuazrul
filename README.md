@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 🔭 I’m currently working as front end developer
+- 👯 I’m looking to collaborate on project related to Next.js, React, TypeScript, and more
+
+
+https://myportfolio.frontera.my.id/
+
 ##### Notes 📚:
 
 | Reference | Description |
